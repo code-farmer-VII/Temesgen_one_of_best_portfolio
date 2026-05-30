@@ -1,0 +1,6 @@
+{
+  "name": "Temesgen Gonfa Portfolio",
+  "description": "Redesigned premium full-stack developer portfolio for Temesgen Gonfa",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
