@@ -133,7 +133,7 @@ export default function HomeView({ onTabChange, onSelectProject }: HomeViewProps
               
               <div className="flex items-center justify-between pb-3">
                 <p className="font-display font-black text-3.5xl text-cyber-teal tracking-tight">
-                  2<span className="text-cyber-purple font-bold">+</span>
+                  3<span className="text-cyber-purple font-bold">+</span>
                 </p>
                 <div className="w-8 h-8 rounded-lg bg-cyber-teal/10 flex items-center justify-center text-cyber-teal border border-cyber-teal/10">
                   <Timer className="w-4 h-4" />
